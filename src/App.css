@@ -1,0 +1,60 @@
+ body {
+  background-color: black;
+  color: whitesmoke;
+  margin:0;
+  padding: 0;
+ }
+
+ .header{
+  background-color: blueviolet;
+  height: 100px;
+  text-align: center;
+  position: relative;
+  margin-top: -25px;
+ }
+ .header-text{
+  position: relative;
+  top: 20px;
+   
+ }
+
+ .footer{
+  background-color: blueviolet;
+  height: 50px;
+  text-align: center;
+  position: relative;
+  margin-top: 70px;
+ }
+ .mb-3 {
+  margin-top: 10px;
+  border: 1px solid #dee2e6;
+  border-radius: 2rem;
+  
+  text-align: center;
+  height: 50px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  /* margin-bottom: 50px; */
+  align-items: center;
+}
+.empty{
+  text-align: center;
+}
+.developer-info{
+  font-size: xx-large;
+  position: relative;
+  margin-right: 100px;
+  margin-top: 200px;
+}
+
+.input{
+  align-items: center;
+  position: relative;
+  margin-left: 50px;
+}
+.card{
+  margin-left: 100px;
+  box-sizing: border-box;
+  border-color: antiquewhite;
+}
