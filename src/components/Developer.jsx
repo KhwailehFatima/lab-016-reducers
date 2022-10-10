@@ -24,5 +24,4 @@ export const developer = (state, action) => {
         default:
             return state;
     }
-    console.log(action)
-};
+ };
